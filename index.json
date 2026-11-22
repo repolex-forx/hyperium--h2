@@ -1,0 +1,11 @@
+{
+  "org": "hyperium",
+  "repo": "h2",
+  "versions": [
+    {
+      "commit": "d57d1b852fec9dda6d42d3454502006d52104da8",
+      "tag": "v0.4.19",
+      "parsed_at": "2026-11-22T14:25:25.176307+00:00"
+    }
+  ]
+}
