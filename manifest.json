@@ -434,7 +434,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-0.3.34/src/lib.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/d57d1b852fec9dda6d42d3454502006d52104da8/chunk-001.nq.gz",
+      "dep": "dep/d57d1b852fec9dda6d42d3454502006d52104da8.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
